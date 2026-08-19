@@ -1,15 +1,15 @@
 <try-action catch-assertions="true" catch-errors="true"
-    name="try_submitreport" uid="f6a8acdb-8721-4223-8a4c-41224f490f7b">
+    name="try_submitreport" uid="4e69a1c3-18a0-40f9-9562-af0dc7e57830">
     <try-container element-number="1" execution-type="0" pacingEnd="0"
         pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
         slaProfileEnabled="false" weightsEnabled="false">
         <description>Elements executed until an error or assertion occurs.</description>
-        <weighted-embedded-action uid="cf2e628d-8802-4662-8b2e-16aa941cce21"/>
+        <weighted-embedded-action uid="c826fe68-bbf2-4152-a88d-52db7cccd90c"/>
     </try-container>
     <catch-container element-number="1" execution-type="0" pacingEnd="0"
         pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
         slaProfileEnabled="false" weightsEnabled="false">
         <description>Elements executed when an error or assertion occurs in the Try container.</description>
-        <weighted-embedded-action uid="961d7ede-91fe-4f59-a4c4-b680aac5dc28"/>
+        <weighted-embedded-action uid="04382012-e54b-457d-bc8d-fcbfca9603d1"/>
     </catch-container>
 </try-action>
