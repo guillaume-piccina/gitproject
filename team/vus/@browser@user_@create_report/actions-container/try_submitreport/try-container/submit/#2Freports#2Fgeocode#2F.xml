@@ -1,11 +1,11 @@
 <http-page executeResourcesDynamically="false"
     forceEncodingForDynamicResources="false" name="/reports/geocode/"
     playRequestsSequentially="false"
-    recordedArtifactZipFileName="team/vus/@browser@user_@create_reporta/%resources%/recorded-artifacts/f6c46575-eee9-4fa0-8924-a92b416452bf.zip"
+    recordedArtifactZipFileName="team/vus/@browser@user_@create_report/%resources%/recorded-artifacts/f2932967-22c7-4fc6-8e61-94228affc5a1.zip"
     slaProfileEnabled="false" thinkTime="45323"
     thinkTimeMode="MODE_RANGE_THINK_TIME" thinkTimeRangeEnd="15000"
-    thinkTimeRangeStart="5000" uid="f6c46575-eee9-4fa0-8924-a92b416452bf">
-    <embedded-action>f748a648-c46e-4aa5-b703-06ef46fbdc18</embedded-action>
+    thinkTimeRangeStart="5000" uid="f2932967-22c7-4fc6-8e61-94228affc5a1">
+    <embedded-action>4eea3889-f579-4229-8e6f-3ac2f949f4fb</embedded-action>
     <screenshotFileDescription>recorded-screenshots/sc_8e31c427-3cc5-4434-81cf-01f36c3473e7.jpg</screenshotFileDescription>
 </http-page>
 <http-action actionType="1" contentType="image/gif"
@@ -17,10 +17,10 @@
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/media/img/loading_g.gif"
     path="/media/img/loading_g.gif" postType="1"
-    recordedArtifactZipFileName="team/vus/@browser@user_@create_reporta/%resources%/recorded-artifacts/f6c46575-eee9-4fa0-8924-a92b416452bf.zip"
+    recordedArtifactZipFileName="team/vus/@browser@user_@create_report/%resources%/recorded-artifacts/f2932967-22c7-4fc6-8e61-94228affc5a1.zip"
     recordedResponseCode="200" recordedResponseTime="17"
     responseSize="0" serverUid="sampledemo.neotys.com"
-    slaProfileEnabled="false" uid="f748a648-c46e-4aa5-b703-06ef46fbdc18" useKeepAlive="true">
+    slaProfileEnabled="false" uid="4eea3889-f579-4229-8e6f-3ac2f949f4fb" useKeepAlive="true">
     <responsePageFileDescription>recorded-responses/res_68ec8d85-1a7a-4c08-96d3-bf32894d3b31.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_68ec8d85-1a7a-4c08-96d3-bf32894d3b31.txt</requestContentFileDescription>
     <header name="Accept" value="image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5"/>
