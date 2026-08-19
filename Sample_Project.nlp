@@ -15,3 +15,4 @@ monitor.tls.insecure=false
 project.is-open-test-settings-after-upload=true
 team.server.project=guillaume-piccina/gitproject
 project.description=
+project.test-settings=09418519-f4b5-4917-81f6-877f7a53a156
