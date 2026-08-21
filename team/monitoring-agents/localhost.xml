@@ -1,7 +1,25 @@
 <me-host browserBasedSupport="false" citrixSupport="false"
     loadWeight="1" sapSupport="false" standalone="false"
-    supportWANEmulation="false" uid="localhost" version="2026.3.0;build=20260820-722">
+    supportWANEmulation="false" uid="localhost" version="2026.3.0 dev;build=branchHead-DEV">
     <!--****** LG NETWORK INTERFACES ******-->
+    <lg-networkiface
+        description="Realtek USB GbE Family Controller #3-Zscaler LightWeight Filter-0000"
+        enabled="false" isLoopBack="false" name="ethernet_20">
+        <!--****** LG ADDRESSES ******-->
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Realtek USB GbE Family Controller #3-QoS Packet Scheduler-0000"
+        enabled="false" isLoopBack="false" name="ethernet_21">
+        <!--****** LG ADDRESSES ******-->
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Realtek USB GbE Family Controller #3-WFP 802.3 MAC Layer LightWeight Filter-0000"
+        enabled="false" isLoopBack="false" name="ethernet_22">
+        <!--****** LG ADDRESSES ******-->
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
     <lg-networkiface
         description="Microsoft Wi-Fi Direct Virtual Adapter #3"
         enabled="false" isLoopBack="false" name="wireless_32771">
@@ -9,6 +27,12 @@
         <lg-address enabled="false" hostname="fe80:0:0:0:dcf:10c9:4d5a:1fb7%wireless_32771">
             <ip value="fe80:0:0:0:dcf:10c9:4d5a:1fb7%wireless_32771"/>
         </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Bluetooth Device (Personal Area Network)-Npcap Packet Driver (NPCAP)-0000"
+        enabled="false" isLoopBack="false" name="ethernet_23">
+        <!--****** LG ADDRESSES ******-->
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
     <lg-networkiface description="TAP-Windows Adapter V9"
@@ -30,25 +54,19 @@
     </lg-networkiface>
     <lg-networkiface
         description="Microsoft Wi-Fi Direct Virtual Adapter #3-WFP 802.3 MAC Layer LightWeight Filter-0000"
-        enabled="false" isLoopBack="false" name="wireless_12">
+        enabled="false" isLoopBack="false" name="wireless_13">
         <!--****** LG ADDRESSES ******-->
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
     <lg-networkiface
         description="Microsoft Wi-Fi Direct Virtual Adapter #3-QoS Packet Scheduler-0000"
-        enabled="false" isLoopBack="false" name="wireless_11">
-        <!--****** LG ADDRESSES ******-->
-        <!--****** END LG ADDRESSES ******-->
-    </lg-networkiface>
-    <lg-networkiface
-        description="TAP-Windows Adapter V9-WFP Native MAC Layer LightWeight Filter-0000"
-        enabled="false" isLoopBack="false" name="iftype53_1">
+        enabled="false" isLoopBack="false" name="wireless_12">
         <!--****** LG ADDRESSES ******-->
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
     <lg-networkiface
         description="Microsoft Wi-Fi Direct Virtual Adapter #3-Zscaler LightWeight Filter-0000"
-        enabled="false" isLoopBack="false" name="wireless_10">
+        enabled="false" isLoopBack="false" name="wireless_11">
         <!--****** LG ADDRESSES ******-->
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
@@ -56,11 +74,23 @@
         enabled="false" isLoopBack="false" name="ethernet_32775">
         <!--****** LG ADDRESSES ******-->
         <lg-address enabled="false" hostname="tri-cnd24001w0.mshome.net">
-            <ip value="172.29.240.1"/>
+            <ip value="172.24.240.1"/>
         </lg-address>
-        <lg-address enabled="false" hostname="fe80:0:0:0:620c:9bb5:d4ae:b873%ethernet_32775">
-            <ip value="fe80:0:0:0:620c:9bb5:d4ae:b873%ethernet_32775"/>
+        <lg-address enabled="false" hostname="fe80:0:0:0:7b31:9ade:5994:9689%ethernet_32775">
+            <ip value="fe80:0:0:0:7b31:9ade:5994:9689%ethernet_32775"/>
         </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Microsoft Wi-Fi Direct Virtual Adapter #3-Npcap Packet Driver (NPCAP)-0000"
+        enabled="false" isLoopBack="false" name="wireless_10">
+        <!--****** LG ADDRESSES ******-->
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="TAP-Windows Adapter V9-WFP Native MAC Layer LightWeight Filter-0000"
+        enabled="false" isLoopBack="false" name="iftype53_1">
+        <!--****** LG ADDRESSES ******-->
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
     <lg-networkiface
@@ -90,7 +120,7 @@
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
     <lg-networkiface
-        description="Bluetooth Device (Personal Area Network)-Npcap Packet Driver (NPCAP)-0000"
+        description="Realtek USB GbE Family Controller #3-WFP Native MAC Layer LightWeight Filter-0000"
         enabled="false" isLoopBack="false" name="ethernet_18">
         <!--****** LG ADDRESSES ******-->
         <!--****** END LG ADDRESSES ******-->
@@ -108,14 +138,14 @@
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
     <lg-networkiface
-        description="TAP-Windows Adapter V9-Npcap Packet Driver (NPCAP)-0000"
-        enabled="false" isLoopBack="false" name="iftype53_2">
+        description="Intel(R) Ethernet Connection (14) I219-LM-WFP Native MAC Layer LightWeight Filter-0000"
+        enabled="false" isLoopBack="false" name="ethernet_13">
         <!--****** LG ADDRESSES ******-->
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
     <lg-networkiface
-        description="Intel(R) Ethernet Connection (14) I219-LM-WFP Native MAC Layer LightWeight Filter-0000"
-        enabled="false" isLoopBack="false" name="ethernet_13">
+        description="TAP-Windows Adapter V9-Npcap Packet Driver (NPCAP)-0000"
+        enabled="false" isLoopBack="false" name="iftype53_2">
         <!--****** LG ADDRESSES ******-->
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
@@ -132,8 +162,8 @@
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
     <lg-networkiface
-        description="TAP-Windows Adapter V9-QoS Packet Scheduler-0000"
-        enabled="false" isLoopBack="false" name="iftype53_4">
+        description="Hyper-V Virtual Ethernet Adapter #2-Zscaler LightWeight Filter-0000"
+        enabled="false" isLoopBack="false" name="ethernet_11">
         <!--****** LG ADDRESSES ******-->
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
@@ -144,20 +174,20 @@
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
     <lg-networkiface
-        description="Hyper-V Virtual Ethernet Adapter #2-Zscaler LightWeight Filter-0000"
-        enabled="false" isLoopBack="false" name="ethernet_11">
-        <!--****** LG ADDRESSES ******-->
-        <!--****** END LG ADDRESSES ******-->
-    </lg-networkiface>
-    <lg-networkiface
-        description="TAP-Windows Adapter V9-WFP 802.3 MAC Layer LightWeight Filter-0000"
-        enabled="false" isLoopBack="false" name="iftype53_5">
+        description="TAP-Windows Adapter V9-QoS Packet Scheduler-0000"
+        enabled="false" isLoopBack="false" name="iftype53_4">
         <!--****** LG ADDRESSES ******-->
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
     <lg-networkiface
         description="Hyper-V Virtual Ethernet Adapter #2-QoS Packet Scheduler-0000"
         enabled="false" isLoopBack="false" name="ethernet_12">
+        <!--****** LG ADDRESSES ******-->
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="TAP-Windows Adapter V9-WFP 802.3 MAC Layer LightWeight Filter-0000"
+        enabled="false" isLoopBack="false" name="iftype53_5">
         <!--****** LG ADDRESSES ******-->
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
@@ -198,14 +228,14 @@
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
     <lg-networkiface
-        description="Microsoft Wi-Fi Direct Virtual Adapter #3-Native WiFi Filter Driver-0000"
+        description="Microsoft Wi-Fi Direct Virtual Adapter #3-WFP Native MAC Layer LightWeight Filter-0000"
         enabled="false" isLoopBack="false" name="wireless_8">
         <!--****** LG ADDRESSES ******-->
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
     <lg-networkiface
-        description="Microsoft Wi-Fi Direct Virtual Adapter #3-WFP Native MAC Layer LightWeight Filter-0000"
-        enabled="false" isLoopBack="false" name="wireless_7">
+        description="Realtek USB GbE Family Controller #3-Npcap Packet Driver (NPCAP)-0000"
+        enabled="false" isLoopBack="false" name="ethernet_19">
         <!--****** LG ADDRESSES ******-->
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
@@ -221,7 +251,7 @@
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
     <lg-networkiface
-        description="Microsoft Wi-Fi Direct Virtual Adapter #3-Npcap Packet Driver (NPCAP)-0000"
+        description="Microsoft Wi-Fi Direct Virtual Adapter #3-Native WiFi Filter Driver-0000"
         enabled="false" isLoopBack="false" name="wireless_9">
         <!--****** LG ADDRESSES ******-->
         <!--****** END LG ADDRESSES ******-->
@@ -232,8 +262,8 @@
         <lg-address enabled="false" hostname="tri-cnd24001w0">
             <ip value="172.22.176.1"/>
         </lg-address>
-        <lg-address enabled="false" hostname="fe80:0:0:0:9fab:e752:13d4:f9a%ethernet_32777">
-            <ip value="fe80:0:0:0:9fab:e752:13d4:f9a%ethernet_32777"/>
+        <lg-address enabled="false" hostname="fe80:0:0:0:b6ec:f361:16e1:f839%ethernet_32777">
+            <ip value="fe80:0:0:0:b6ec:f361:16e1:f839%ethernet_32777"/>
         </lg-address>
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
@@ -291,38 +321,8 @@
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
     <lg-networkiface
-        description="Realtek USB GbE Family Controller #3-WFP Native MAC Layer LightWeight Filter-0000"
-        enabled="false" isLoopBack="false" name="ethernet_31">
-        <!--****** LG ADDRESSES ******-->
-        <!--****** END LG ADDRESSES ******-->
-    </lg-networkiface>
-    <lg-networkiface
-        description="Realtek USB GbE Family Controller #3-Npcap Packet Driver (NPCAP)-0000"
-        enabled="false" isLoopBack="false" name="ethernet_32">
-        <!--****** LG ADDRESSES ******-->
-        <!--****** END LG ADDRESSES ******-->
-    </lg-networkiface>
-    <lg-networkiface
         description="Hyper-V Virtual Ethernet Adapter #2-WFP 802.3 MAC Layer LightWeight Filter-0000"
-        enabled="false" isLoopBack="false" name="ethernet_30">
-        <!--****** LG ADDRESSES ******-->
-        <!--****** END LG ADDRESSES ******-->
-    </lg-networkiface>
-    <lg-networkiface
-        description="Realtek USB GbE Family Controller #3-WFP 802.3 MAC Layer LightWeight Filter-0000"
         enabled="false" isLoopBack="false" name="ethernet_35">
-        <!--****** LG ADDRESSES ******-->
-        <!--****** END LG ADDRESSES ******-->
-    </lg-networkiface>
-    <lg-networkiface
-        description="Realtek USB GbE Family Controller #3-Zscaler LightWeight Filter-0000"
-        enabled="false" isLoopBack="false" name="ethernet_33">
-        <!--****** LG ADDRESSES ******-->
-        <!--****** END LG ADDRESSES ******-->
-    </lg-networkiface>
-    <lg-networkiface
-        description="Realtek USB GbE Family Controller #3-QoS Packet Scheduler-0000"
-        enabled="false" isLoopBack="false" name="ethernet_34">
         <!--****** LG ADDRESSES ******-->
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
