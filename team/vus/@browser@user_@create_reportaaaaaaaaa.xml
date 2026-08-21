@@ -1,6 +1,6 @@
 <virtual-user errorPolicy="DO_NOTHING"
     failedAssertionPolicy="DO_NOTHING" slaProfileEnabled="false"
-    type="LEGACY" uid="BrowserUser_Create_reportaaaaaaaa">
+    type="LEGACY" uid="BrowserUser_Create_reportaaaaaaaaa">
     <description>Use case : Creating a report from the Web Application</description>
     <init-container element-number="1" execution-type="0" pacingEnd="0"
         pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
@@ -12,10 +12,10 @@
         pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
         slaProfileEnabled="false" weightsEnabled="false">
         <description>Elements repeated until the Virtual User stops.</description>
-        <weighted-embedded-action uid="638f9838-7efc-4dcf-9ed3-a78f88c7edbe"/>
-        <weighted-embedded-action uid="f820e876-db0e-442d-bd20-b325d702ec4a"/>
-        <weighted-embedded-action uid="d375b5c9-0131-4f5c-a0bd-316469e56607"/>
-        <weighted-embedded-action uid="bb55450d-6b84-43d1-88ec-1791ba1799b9"/>
+        <weighted-embedded-action uid="df65740f-9e45-4ae2-8ef7-f88ae7e548fe"/>
+        <weighted-embedded-action uid="b6e55297-7611-4c91-bc22-e36f588063b8"/>
+        <weighted-embedded-action uid="380ad859-0c03-4b81-a072-d3d6da59b373"/>
+        <weighted-embedded-action uid="26701e18-c4f1-4624-9a63-9b1a2854070b"/>
     </actions-container>
     <end-container element-number="1" execution-type="0" pacingEnd="0"
         pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
