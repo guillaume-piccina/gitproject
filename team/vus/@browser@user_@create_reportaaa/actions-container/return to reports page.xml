@@ -2,6 +2,6 @@
     name="return to reports page" pacingEnd="0"
     pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
     slaProfileEnabled="true" slaProfileName="DefaultSLA"
-    uid="6c1a0c80-a348-4141-8266-617718e3ca81" weightsEnabled="false">
-    <weighted-embedded-action uid="d9d9b2c6-9ac0-4751-a9dc-09e1ae7df206"/>
+    uid="883eeb33-0c2c-435b-8de3-bed9937f5a9b" weightsEnabled="false">
+    <weighted-embedded-action uid="c6cd11aa-4b91-42d9-9c41-bc4a5d2c89ac"/>
 </basic-logical-action-container>
