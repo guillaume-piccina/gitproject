@@ -1,13 +1,13 @@
 <http-page executeResourcesDynamically="false"
     forceEncodingForDynamicResources="false" name="/reports/submit"
     playRequestsSequentially="false"
-    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaa/%resources%/recorded-artifacts/bb0a4ea7-6f93-43a5-9f95-824c9914df6d.zip"
+    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaaa/%resources%/recorded-artifacts/af45abbb-0728-4d4b-bed0-fc3063c2174a.zip"
     slaProfileEnabled="false" thinkTime="6416"
     thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
-    thinkTimeRangeStart="" uid="bb0a4ea7-6f93-43a5-9f95-824c9914df6d">
-    <embedded-action>1c534af1-2eae-470b-85de-36afac48a7bf</embedded-action>
-    <embedded-action>8632f235-6eec-4211-99d3-85c046f44d37</embedded-action>
-    <embedded-action>6e6fcd14-a9c9-4b40-bb35-c6bbfbce502a</embedded-action>
+    thinkTimeRangeStart="" uid="af45abbb-0728-4d4b-bed0-fc3063c2174a">
+    <embedded-action>4417a659-4c70-4c8d-a814-86ec72b37978</embedded-action>
+    <embedded-action>b4d32036-99cf-4610-aed6-7573ffeaa702</embedded-action>
+    <embedded-action>ff9d5677-4fb4-42e1-b9ee-daefe12c7284</embedded-action>
     <screenshotFileDescription>recorded-screenshots/sc_44de1282-4eb0-419a-bfb3-0e63a237bc52.jpg</screenshotFileDescription>
 </http-page>
 <http-action actionType="1" contentType="text/html; charset=UTF-8"
@@ -17,11 +17,11 @@
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="POST" name="/reports/submit" path="/reports/submit"
     postCharset="UTF-8" postType="3"
-    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaa/%resources%/recorded-artifacts/bb0a4ea7-6f93-43a5-9f95-824c9914df6d.zip"
+    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaaa/%resources%/recorded-artifacts/af45abbb-0728-4d4b-bed0-fc3063c2174a.zip"
     recordedResponseCode="302" recordedResponseTime="258"
-    refererUid="654c62ab-d170-4876-bb35-8c3040b3ff5f" responseSize="104"
+    refererUid="5110a7e1-6ac3-4d21-84a0-8048943163ab" responseSize="104"
     serverUid="sampledemo.neotys.com" slaProfileEnabled="false"
-    uid="1c534af1-2eae-470b-85de-36afac48a7bf" useKeepAlive="true">
+    uid="4417a659-4c70-4c8d-a814-86ec72b37978" useKeepAlive="true">
     <binaryPostContentBase64><![CDATA[LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS03ZGYzMTIzOTEwZTE0DQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9ImZvcm1fYXV0aF90b2tlbiINCg0KNWZlZDM4MTY0ZmRkYzExYjQ2MDc2ZTFkNTU4NTMwNDBmYTJlY2YxYjMwY2VjMDUxNDRiZTBhMzQ5YjBkNWUxYQ0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS03ZGYzMTIzOTEwZTE0DQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9ImxhdGl0dWRlIg0KDQo0MC40MTY3MDQ3DQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTdkZjMxMjM5MTBlMTQNCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0ibG9uZ2l0dWRlIg0KDQotMy43MDM1ODI1DQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTdkZjMxMjM5MTBlMTQNCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iY291bnRyeV9uYW1lIg0KDQpTcGFpbg0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS03ZGYzMTIzOTEwZTE0DQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9ImluY2lkZW50X3pvb20iDQoNCjMNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tN2RmMzEyMzkxMGUxNA0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJmb3JtX2lkIg0KDQoNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tN2RmMzEyMzkxMGUxNA0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJpbmNpZGVudF90aXRsZSINCg0KdHRpbGUgb2YgdGhlIHJlcG9ydA0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS03ZGYzMTIzOTEwZTE0DQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9ImluY2lkZW50X2Rlc2NyaXB0aW9uIg0KDQpkZXNjcmlwdGlvbiBvZiB0aGUgcmVwb3J0DQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTdkZjMxMjM5MTBlMTQNCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iaW5jaWRlbnRfZGF0ZSINCg0KMDcvMjcvMjAxNQ0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS03ZGYzMTIzOTEwZTE0DQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9ImluY2lkZW50X2hvdXIiDQoNCjA4DQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTdkZjMxMjM5MTBlMTQNCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iaW5jaWRlbnRfbWludXRlIg0KDQowNg0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS03ZGYzMTIzOTEwZTE0DQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9ImluY2lkZW50X2FtcG0iDQoNCmFtDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTdkZjMxMjM5MTBlMTQNCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iaW5jaWRlbnRfY2F0ZWdvcnlbXSINCg0KMQ0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS03ZGYzMTIzOTEwZTE0DQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9InBlcnNvbl9maXJzdCINCg0KbmVvdHlzDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTdkZjMxMjM5MTBlMTQNCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0icGVyc29uX2xhc3QiDQoNCm5lb2xvYWQNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tN2RmMzEyMzkxMGUxNA0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJwZXJzb25fZW1haWwiDQoNCg0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS03ZGYzMTIzOTEwZTE0DQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9InNlbGVjdF9jaXR5Ig0KDQoNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tN2RmMzEyMzkxMGUxNA0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJnZW9tZXRyeV9sYWJlbCINCg0KDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTdkZjMxMjM5MTBlMTQNCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iZ2VvbWV0cnlfY29tbWVudCINCg0KDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTdkZjMxMjM5MTBlMTQNCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iZ2VvbWV0cnlfY29sb3IiDQoNCg0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS03ZGYzMTIzOTEwZTE0DQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9Imdlb21ldHJ5X3N0cm9rZXdpZHRoIg0KDQowLjUNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tN2RmMzEyMzkxMGUxNA0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJnZW9tZXRyeV9sYXQiDQoNCg0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS03ZGYzMTIzOTEwZTE0DQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9Imdlb21ldHJ5X2xvbiINCg0KDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTdkZjMxMjM5MTBlMTQNCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iT3BlbkxheWVyc19Db250cm9sX0xheWVyU3dpdGNoZXJfMjdfYmFzZUxheWVycyINCg0KR29vZ2xlIE1hcHMgU2F0ZWxsaXRlDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTdkZjMxMjM5MTBlMTQNCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iRWRpdGFibGUiDQoNCkVkaXRhYmxlDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTdkZjMxMjM5MTBlMTQNCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0ibG9jYXRpb25fZmluZCINCg0KbWFkcmlkDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTdkZjMxMjM5MTBlMTQNCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0ibG9jYXRpb25fbmFtZSINCg0KTWFkcmlkLCDDgXJlYSBtZXRyb3BvbGl0YW5hIGRlIE1hZHJpZCB5IENvcnJlZG9yIGRlbCBIZW5hcmVzLCBNYWRyaWQsIENvbW11bml0eSBvZiBNYWRyaWQsIFNwYWluDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTdkZjMxMjM5MTBlMTQNCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iaW5jaWRlbnRfbmV3c1tdIg0KDQoNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tN2RmMzEyMzkxMGUxNA0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJuZXdzX2lkIg0KDQoxDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTdkZjMxMjM5MTBlMTQNCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iaW5jaWRlbnRfdmlkZW9bXSINCg0KDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTdkZjMxMjM5MTBlMTQNCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0idmlkZW9faWQiDQoNCjENCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tN2RmMzEyMzkxMGUxNA0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJpbmNpZGVudF9waG90b1tdIjsgZmlsZW5hbWU9IiINCkNvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtDQoNCg0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS03ZGYzMTIzOTEwZTE0DQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9InBob3RvX2lkIg0KDQoxDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTdkZjMxMjM5MTBlMTQNCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0ic3VibWl0Ig0KDQpTdWJtaXQNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tN2RmMzEyMzkxMGUxNC0tDQo=]]></binaryPostContentBase64>
     <responsePageFileDescription>recorded-responses/res_b3b6bf38-f87d-4539-9b04-71b23c3e3b6b.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_b3b6bf38-f87d-4539-9b04-71b23c3e3b6b.txt</requestContentFileDescription>
@@ -58,7 +58,7 @@ Content-Type: text/html; charset=UTF-8</responseHeaders>
                 extractFromVarNameSimple="" extractType="0"
                 extractTypeAdv="0" extractTypeSimple="0" matchNumber="1"
                 matchNumberAdv="1" matchNumberSimple="1" name="nl_token"
-                refererUid="654c62ab-d170-4876-bb35-8c3040b3ff5f"
+                refererUid="5110a7e1-6ac3-4d21-84a0-8048943163ab"
                 regExp="\s[Nn][Aa][Mm][Ee]\s*=\s*[\&quot;']form_auth_token[\&quot;'][^>]*\s[vV][Aa][Ll][Uu][Ee]\s*=\s*[\&quot;'](.*?)[\&quot;']"
                 regExpAdv="\s[Nn][Aa][Mm][Ee]\s*=\s*[\&quot;']form_auth_token[\&quot;'][^>]*\s[vV][Aa][Ll][Uu][Ee]\s*=\s*[\&quot;'](.*?)[\&quot;']"
                 setDefaultValue="true" startsWithSimple=""
@@ -135,11 +135,11 @@ Content-Type: text/html; charset=UTF-8</responseHeaders>
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/reports/thanks" path="/reports/thanks"
     postType="1"
-    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaa/%resources%/recorded-artifacts/bb0a4ea7-6f93-43a5-9f95-824c9914df6d.zip"
+    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaaa/%resources%/recorded-artifacts/af45abbb-0728-4d4b-bed0-fc3063c2174a.zip"
     recordedResponseCode="200" recordedResponseTime="90"
-    refererUid="1c534af1-2eae-470b-85de-36afac48a7bf"
+    refererUid="4417a659-4c70-4c8d-a814-86ec72b37978"
     responseSize="11544" slaProfileEnabled="false"
-    uid="8632f235-6eec-4211-99d3-85c046f44d37" useKeepAlive="true">
+    uid="b4d32036-99cf-4610-aed6-7573ffeaa702" useKeepAlive="true">
     <responsePageFileDescription>recorded-responses/res_22b11d28-55b4-4838-9cef-a1521483b030.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_22b11d28-55b4-4838-9cef-a1521483b030.txt</requestContentFileDescription>
     <header name="Accept" value="text/html, application/xhtml+xml, */*"/>
@@ -172,10 +172,10 @@ Content-Length: 11544</responseHeaders>
     linkExtractorSeveralMatchOccurrence="1"
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/scheduler" path="/scheduler" postType="1"
-    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaa/%resources%/recorded-artifacts/bb0a4ea7-6f93-43a5-9f95-824c9914df6d.zip"
+    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaaa/%resources%/recorded-artifacts/af45abbb-0728-4d4b-bed0-fc3063c2174a.zip"
     recordedResponseCode="200" recordedResponseTime="67"
     responseSize="0" serverUid="sampledemo.neotys.com"
-    slaProfileEnabled="false" uid="6e6fcd14-a9c9-4b40-bb35-c6bbfbce502a" useKeepAlive="true">
+    slaProfileEnabled="false" uid="ff9d5677-4fb4-42e1-b9ee-daefe12c7284" useKeepAlive="true">
     <responsePageFileDescription>recorded-responses/res_aaebf0bd-ec0d-4be6-8fb8-2a8f323151c7.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_aaebf0bd-ec0d-4be6-8fb8-2a8f323151c7.txt</requestContentFileDescription>
     <header name="Accept" value="image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5"/>
