@@ -139,14 +139,14 @@
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
     <lg-networkiface
-        description="TAP-Windows Adapter V9-Npcap Packet Driver (NPCAP)-0000"
-        enabled="false" isLoopBack="false" name="iftype53_2">
+        description="Intel(R) Ethernet Connection (14) I219-LM-WFP Native MAC Layer LightWeight Filter-0000"
+        enabled="false" isLoopBack="false" name="ethernet_13">
         <!--****** LG ADDRESSES ******-->
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
     <lg-networkiface
-        description="Intel(R) Ethernet Connection (14) I219-LM-WFP Native MAC Layer LightWeight Filter-0000"
-        enabled="false" isLoopBack="false" name="ethernet_13">
+        description="TAP-Windows Adapter V9-Npcap Packet Driver (NPCAP)-0000"
+        enabled="false" isLoopBack="false" name="iftype53_2">
         <!--****** LG ADDRESSES ******-->
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
