@@ -1,7 +1,7 @@
 <lg-host browserBasedSupport="true" citrixSupport="false"
     hostname="localhost:7100" loadWeight="1" sapSupport="false"
     standalone="false" supportWANEmulation="false"
-    uid="e4178470-f38b-4df7-b4b2-94ab4609e002" version="2026.3.0;build=20260821-802">
+    uid="e4178470-f38b-4df7-b4b2-94ab4609e002" version="2026.3.0;build=20260824-872">
     <!--****** LG NETWORK INTERFACES ******-->
     <lg-networkiface
         description="Hyper-V Virtual Ethernet Adapter #2-Npcap Packet Driver (NPCAP)-0000"
@@ -9,14 +9,14 @@
         <!--****** LG ADDRESSES ******-->
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
-    <lg-networkiface
-        description="Hyper-V Virtual Ethernet Adapter #2-WFP Native MAC Layer LightWeight Filter-0000"
-        enabled="false" isLoopBack="false" name="ethernet_8">
+    <lg-networkiface description="Realtek USB GbE Family Controller #3"
+        enabled="false" isLoopBack="false" name="ethernet_32784">
         <!--****** LG ADDRESSES ******-->
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
-    <lg-networkiface description="Realtek USB GbE Family Controller #3"
-        enabled="false" isLoopBack="false" name="ethernet_32784">
+    <lg-networkiface
+        description="Hyper-V Virtual Ethernet Adapter #2-WFP Native MAC Layer LightWeight Filter-0000"
+        enabled="false" isLoopBack="false" name="ethernet_8">
         <!--****** LG ADDRESSES ******-->
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
