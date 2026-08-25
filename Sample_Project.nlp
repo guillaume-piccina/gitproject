@@ -16,5 +16,3 @@ project.is-open-test-settings-after-upload=true
 team.server.project=guillaume-piccina/gitproject
 project.description=
 project.workspace=5e3acde2e860a132744ca916
-project.test-settings=599546e6-2307-4fd8-bd76-237ba8894e4d
-project.test-settings-name=test

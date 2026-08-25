@@ -2,7 +2,7 @@
     name="submit report" pacingEnd="0" pacingMode="MODE_NO_PACING"
     pacingStart="0" pacingValue="0" slaProfileEnabled="true"
     slaProfileName="DefaultSLA"
-    uid="41dbb71e-ae02-431a-89ee-bc52d5dddb4b" weightsEnabled="false">
-    <weighted-embedded-action uid="3ab5790b-12ee-4613-85ed-cb0e7359f32f"/>
-    <weighted-embedded-action uid="dab52b3d-0dfd-4312-84eb-38e6c9cfcc23"/>
+    uid="ee37cc49-28a1-4fda-87b4-0d990996507f" weightsEnabled="false">
+    <weighted-embedded-action uid="2f68dbf5-9310-43e4-9232-1bc33e335c69"/>
+    <weighted-embedded-action uid="0e78169f-bfa4-4059-ac8c-77f02f391b8b"/>
 </basic-logical-action-container>
