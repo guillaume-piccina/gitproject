@@ -2,7 +2,7 @@
     name="submit" pacingEnd="0" pacingMode="MODE_NO_PACING"
     pacingStart="0" pacingValue="0" slaProfileEnabled="true"
     slaProfileName="DefaultSLA"
-    uid="79c60e9b-f304-493f-b2d4-ae9a5c4f2b4d" weightsEnabled="false">
-    <weighted-embedded-action uid="35c1be80-b051-42e7-9520-1218d9d35f81"/>
-    <weighted-embedded-action uid="9fcc946c-0040-479d-8c9b-22bf5075a64b"/>
+    uid="bd47e528-e062-485f-84bd-b494c5901496" weightsEnabled="false">
+    <weighted-embedded-action uid="ad5c037e-5c5b-4b58-9865-0731b0817038"/>
+    <weighted-embedded-action uid="01d1dead-6aa6-4d24-923c-ea3cc6846c08"/>
 </basic-logical-action-container>
