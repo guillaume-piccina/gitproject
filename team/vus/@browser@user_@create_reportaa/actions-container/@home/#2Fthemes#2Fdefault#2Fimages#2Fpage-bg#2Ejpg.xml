@@ -2,23 +2,23 @@
     forceEncodingForDynamicResources="false"
     name="/themes/default/images/page-bg.jpg"
     playRequestsSequentially="false"
-    recordedArtifactZipFileName="team/vus/@browser@user_@create_reporta/%resources%/recorded-artifacts/9b48acfe-8a94-4592-9abb-ce02b035d545.zip"
+    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaa/%resources%/recorded-artifacts/052f8ccb-6862-406c-8d22-97708962ac87.zip"
     slaProfileEnabled="false" thinkTime="997"
     thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
-    thinkTimeRangeStart="" uid="9b48acfe-8a94-4592-9abb-ce02b035d545">
-    <embedded-action>ccac2d39-cce4-4233-9dd1-b8e35935ada8</embedded-action>
-    <embedded-action>c2f1bd81-b2d8-4f85-a651-64d362d19042</embedded-action>
-    <embedded-action>38eba322-d921-4539-8044-d43af3e8f49f</embedded-action>
-    <embedded-action>074e25a7-d9d9-4e14-8533-bd383860cbd5</embedded-action>
-    <embedded-action>ad22db9f-a459-46e5-b6aa-d2bf57ca9ca5</embedded-action>
-    <embedded-action>d3855093-1259-4ac6-971a-2196626058fb</embedded-action>
-    <embedded-action>c2010410-8ec4-425c-8559-a6febab398e9</embedded-action>
-    <embedded-action>f850dafd-6f41-4be0-aa9c-041c62f4b7ae</embedded-action>
-    <embedded-action>24177713-0015-4c7f-916e-cc18728d4d09</embedded-action>
-    <embedded-action>279d0986-c582-467b-934e-ac2db9f00d17</embedded-action>
-    <embedded-action>8ff4c01d-1ec0-4a4a-8d6f-d6f7bd03848a</embedded-action>
-    <embedded-action>d9825099-1ea7-481f-805e-c33ffd86cb25</embedded-action>
-    <embedded-action>b9171e0c-0582-4ab9-8ba3-748b46d9dbcb</embedded-action>
+    thinkTimeRangeStart="" uid="052f8ccb-6862-406c-8d22-97708962ac87">
+    <embedded-action>e07bf799-99ed-4e41-adb7-b5c7c4095f65</embedded-action>
+    <embedded-action>a972b4f8-34b5-4dbc-bb4a-2ce090eba158</embedded-action>
+    <embedded-action>b1ea9c3b-7085-4383-a8e4-abded37612e1</embedded-action>
+    <embedded-action>08700a1e-24e3-4621-9e2e-87ab460bcc2b</embedded-action>
+    <embedded-action>0c8b4e29-b1be-47b2-a8fc-0f771dff9119</embedded-action>
+    <embedded-action>356023a3-ad00-4ef7-8bdc-5747c0c5c49e</embedded-action>
+    <embedded-action>04deb944-8e57-4168-be76-dfdc57023285</embedded-action>
+    <embedded-action>616c1a81-a1ca-4efc-a624-8bcc855167f2</embedded-action>
+    <embedded-action>4efacda4-9200-493c-921d-ef2792d31cad</embedded-action>
+    <embedded-action>938528f5-dd14-43b2-ad4b-763ecb8b0a2b</embedded-action>
+    <embedded-action>1ad2eb6d-c9e0-405f-b43b-c8a7242d8f2b</embedded-action>
+    <embedded-action>41adef52-9169-4705-99b0-09d5b42bea03</embedded-action>
+    <embedded-action>f99e494f-1ccf-4908-9a37-141d79342b55</embedded-action>
     <screenshotFileDescription>recorded-screenshots/sc_4f53b3a6-c960-44cb-ae2e-5cb5a83d52e9.jpg</screenshotFileDescription>
 </http-page>
 <http-action actionType="1" contentType="image/jpeg"
@@ -30,10 +30,10 @@
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/themes/default/images/page-bg.jpg"
     path="/themes/default/images/page-bg.jpg" postType="1"
-    recordedArtifactZipFileName="team/vus/@browser@user_@create_reporta/%resources%/recorded-artifacts/9b48acfe-8a94-4592-9abb-ce02b035d545.zip"
+    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaa/%resources%/recorded-artifacts/052f8ccb-6862-406c-8d22-97708962ac87.zip"
     recordedResponseCode="200" recordedResponseTime="8" responseSize="0"
     serverUid="sampledemo.neotys.com" slaProfileEnabled="false"
-    uid="ccac2d39-cce4-4233-9dd1-b8e35935ada8" useKeepAlive="true">
+    uid="e07bf799-99ed-4e41-adb7-b5c7c4095f65" useKeepAlive="true">
     <responsePageFileDescription>recorded-responses/res_dd32bd49-08a8-4762-b1e5-ea8b5f9f7b9d</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_dd32bd49-08a8-4762-b1e5-ea8b5f9f7b9d.txt</requestContentFileDescription>
     <header name="Accept" value="image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5"/>
@@ -65,10 +65,10 @@ Content-Type: image/jpeg</responseHeaders>
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/themes/default/images/search-button.jpg"
     path="/themes/default/images/search-button.jpg" postType="1"
-    recordedArtifactZipFileName="team/vus/@browser@user_@create_reporta/%resources%/recorded-artifacts/9b48acfe-8a94-4592-9abb-ce02b035d545.zip"
+    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaa/%resources%/recorded-artifacts/052f8ccb-6862-406c-8d22-97708962ac87.zip"
     recordedResponseCode="200" recordedResponseTime="8" responseSize="0"
     serverUid="sampledemo.neotys.com" slaProfileEnabled="false"
-    uid="c2f1bd81-b2d8-4f85-a651-64d362d19042" useKeepAlive="true">
+    uid="a972b4f8-34b5-4dbc-bb4a-2ce090eba158" useKeepAlive="true">
     <responsePageFileDescription>recorded-responses/res_9463c680-6331-42ec-81f1-1f89b8e8bfcf</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_9463c680-6331-42ec-81f1-1f89b8e8bfcf.txt</requestContentFileDescription>
     <header name="Accept" value="image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5"/>
@@ -102,10 +102,10 @@ Content-Type: image/jpeg</responseHeaders>
     name="/media/img/openlayers/layer-switcher-maximize.png"
     path="/media/img/openlayers/layer-switcher-maximize.png"
     postType="1"
-    recordedArtifactZipFileName="team/vus/@browser@user_@create_reporta/%resources%/recorded-artifacts/9b48acfe-8a94-4592-9abb-ce02b035d545.zip"
+    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaa/%resources%/recorded-artifacts/052f8ccb-6862-406c-8d22-97708962ac87.zip"
     recordedResponseCode="200" recordedResponseTime="8" responseSize="0"
     serverUid="sampledemo.neotys.com" slaProfileEnabled="false"
-    uid="38eba322-d921-4539-8044-d43af3e8f49f" useKeepAlive="true">
+    uid="b1ea9c3b-7085-4383-a8e4-abded37612e1" useKeepAlive="true">
     <responsePageFileDescription>recorded-responses/res_bcbe2a24-e4fd-49e5-b77a-6ecbe776febb.png</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_bcbe2a24-e4fd-49e5-b77a-6ecbe776febb.txt</requestContentFileDescription>
     <header name="Accept" value="image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5"/>
@@ -139,10 +139,10 @@ Content-Type: image/png</responseHeaders>
     name="/media/img/openlayers/layer-switcher-minimize.png"
     path="/media/img/openlayers/layer-switcher-minimize.png"
     postType="1"
-    recordedArtifactZipFileName="team/vus/@browser@user_@create_reporta/%resources%/recorded-artifacts/9b48acfe-8a94-4592-9abb-ce02b035d545.zip"
+    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaa/%resources%/recorded-artifacts/052f8ccb-6862-406c-8d22-97708962ac87.zip"
     recordedResponseCode="200" recordedResponseTime="8" responseSize="0"
     serverUid="sampledemo.neotys.com" slaProfileEnabled="false"
-    uid="074e25a7-d9d9-4e14-8533-bd383860cbd5" useKeepAlive="true">
+    uid="08700a1e-24e3-4621-9e2e-87ab460bcc2b" useKeepAlive="true">
     <responsePageFileDescription>recorded-responses/res_a8ae6869-154f-4584-9e5c-79c9b082d884.png</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_a8ae6869-154f-4584-9e5c-79c9b082d884.txt</requestContentFileDescription>
     <header name="Accept" value="image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5"/>
@@ -174,10 +174,10 @@ Content-Type: image/png</responseHeaders>
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/media/img/openlayers/cloud-popup-relative.png"
     path="/media/img/openlayers/cloud-popup-relative.png" postType="1"
-    recordedArtifactZipFileName="team/vus/@browser@user_@create_reporta/%resources%/recorded-artifacts/9b48acfe-8a94-4592-9abb-ce02b035d545.zip"
+    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaa/%resources%/recorded-artifacts/052f8ccb-6862-406c-8d22-97708962ac87.zip"
     recordedResponseCode="200" recordedResponseTime="8" responseSize="0"
     serverUid="sampledemo.neotys.com" slaProfileEnabled="false"
-    uid="ad22db9f-a459-46e5-b6aa-d2bf57ca9ca5" useKeepAlive="true">
+    uid="0c8b4e29-b1be-47b2-a8fc-0f771dff9119" useKeepAlive="true">
     <responsePageFileDescription>recorded-responses/res_15978dfc-5bc3-4307-bd7e-97a8055b9f45.png</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_15978dfc-5bc3-4307-bd7e-97a8055b9f45.txt</requestContentFileDescription>
     <header name="Accept" value="image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5"/>
@@ -211,10 +211,10 @@ Content-Type: image/png</responseHeaders>
     name="/media/img/themeroller/ui-bg_flat_75_ffffff_40x100.png"
     path="/media/img/themeroller/ui-bg_flat_75_ffffff_40x100.png"
     postType="1"
-    recordedArtifactZipFileName="team/vus/@browser@user_@create_reporta/%resources%/recorded-artifacts/9b48acfe-8a94-4592-9abb-ce02b035d545.zip"
+    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaa/%resources%/recorded-artifacts/052f8ccb-6862-406c-8d22-97708962ac87.zip"
     recordedResponseCode="200" recordedResponseTime="13"
     responseSize="0" serverUid="sampledemo.neotys.com"
-    slaProfileEnabled="false" uid="d3855093-1259-4ac6-971a-2196626058fb" useKeepAlive="true">
+    slaProfileEnabled="false" uid="356023a3-ad00-4ef7-8bdc-5747c0c5c49e" useKeepAlive="true">
     <responsePageFileDescription>recorded-responses/res_a1a4085a-f515-4e5f-8d05-3ed7a5c3e9db.png</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_a1a4085a-f515-4e5f-8d05-3ed7a5c3e9db.txt</requestContentFileDescription>
     <header name="Accept" value="image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5"/>
@@ -246,10 +246,10 @@ Content-Type: image/png</responseHeaders>
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/themes/default/images/filters-bg.jpg"
     path="/themes/default/images/filters-bg.jpg" postType="1"
-    recordedArtifactZipFileName="team/vus/@browser@user_@create_reporta/%resources%/recorded-artifacts/9b48acfe-8a94-4592-9abb-ce02b035d545.zip"
+    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaa/%resources%/recorded-artifacts/052f8ccb-6862-406c-8d22-97708962ac87.zip"
     recordedResponseCode="200" recordedResponseTime="27"
     responseSize="0" serverUid="sampledemo.neotys.com"
-    slaProfileEnabled="false" uid="c2010410-8ec4-425c-8559-a6febab398e9" useKeepAlive="true">
+    slaProfileEnabled="false" uid="04deb944-8e57-4168-be76-dfdc57023285" useKeepAlive="true">
     <responsePageFileDescription>recorded-responses/res_7ebeb7be-026a-4da7-8f57-cae098b2e847</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_7ebeb7be-026a-4da7-8f57-cae098b2e847.txt</requestContentFileDescription>
     <header name="Accept" value="image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5"/>
@@ -281,10 +281,10 @@ Content-Type: image/jpeg</responseHeaders>
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/themes/default/images/cat-filters-bg.jpg"
     path="/themes/default/images/cat-filters-bg.jpg" postType="1"
-    recordedArtifactZipFileName="team/vus/@browser@user_@create_reporta/%resources%/recorded-artifacts/9b48acfe-8a94-4592-9abb-ce02b035d545.zip"
+    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaa/%resources%/recorded-artifacts/052f8ccb-6862-406c-8d22-97708962ac87.zip"
     recordedResponseCode="200" recordedResponseTime="8" responseSize="0"
     serverUid="sampledemo.neotys.com" slaProfileEnabled="false"
-    uid="f850dafd-6f41-4be0-aa9c-041c62f4b7ae" useKeepAlive="true">
+    uid="616c1a81-a1ca-4efc-a624-8bcc855167f2" useKeepAlive="true">
     <responsePageFileDescription>recorded-responses/res_0d46faf2-1c21-4ef0-8c67-4d038aa026b7</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_0d46faf2-1c21-4ef0-8c67-4d038aa026b7.txt</requestContentFileDescription>
     <header name="Accept" value="image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5"/>
@@ -316,10 +316,10 @@ Content-Type: image/jpeg</responseHeaders>
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/themes/default/images/submit-incident.png"
     path="/themes/default/images/submit-incident.png" postType="1"
-    recordedArtifactZipFileName="team/vus/@browser@user_@create_reporta/%resources%/recorded-artifacts/9b48acfe-8a94-4592-9abb-ce02b035d545.zip"
+    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaa/%resources%/recorded-artifacts/052f8ccb-6862-406c-8d22-97708962ac87.zip"
     recordedResponseCode="200" recordedResponseTime="23"
     responseSize="0" serverUid="sampledemo.neotys.com"
-    slaProfileEnabled="false" uid="24177713-0015-4c7f-916e-cc18728d4d09" useKeepAlive="true">
+    slaProfileEnabled="false" uid="4efacda4-9200-493c-921d-ef2792d31cad" useKeepAlive="true">
     <responsePageFileDescription>recorded-responses/res_5aa6851d-d35d-4c38-bc10-b1a6ee141d2b.png</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_5aa6851d-d35d-4c38-bc10-b1a6ee141d2b.txt</requestContentFileDescription>
     <header name="Accept" value="image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5"/>
@@ -353,10 +353,10 @@ Content-Type: image/png</responseHeaders>
     name="/media/img/themeroller/ui-bg_glass_75_e6e6e6_1x400.png"
     path="/media/img/themeroller/ui-bg_glass_75_e6e6e6_1x400.png"
     postType="1"
-    recordedArtifactZipFileName="team/vus/@browser@user_@create_reporta/%resources%/recorded-artifacts/9b48acfe-8a94-4592-9abb-ce02b035d545.zip"
+    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaa/%resources%/recorded-artifacts/052f8ccb-6862-406c-8d22-97708962ac87.zip"
     recordedResponseCode="200" recordedResponseTime="18"
     responseSize="0" serverUid="sampledemo.neotys.com"
-    slaProfileEnabled="false" uid="279d0986-c582-467b-934e-ac2db9f00d17" useKeepAlive="true">
+    slaProfileEnabled="false" uid="938528f5-dd14-43b2-ad4b-763ecb8b0a2b" useKeepAlive="true">
     <responsePageFileDescription>recorded-responses/res_47dd861f-415e-447c-af45-57c763e721c0.png</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_47dd861f-415e-447c-af45-57c763e721c0.txt</requestContentFileDescription>
     <header name="Accept" value="image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5"/>
@@ -390,10 +390,10 @@ Content-Type: image/png</responseHeaders>
     name="/media/img/themeroller/ui-bg_highlight-soft_75_cccccc_1x100.png"
     path="/media/img/themeroller/ui-bg_highlight-soft_75_cccccc_1x100.png"
     postType="1"
-    recordedArtifactZipFileName="team/vus/@browser@user_@create_reporta/%resources%/recorded-artifacts/9b48acfe-8a94-4592-9abb-ce02b035d545.zip"
+    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaa/%resources%/recorded-artifacts/052f8ccb-6862-406c-8d22-97708962ac87.zip"
     recordedResponseCode="200" recordedResponseTime="31"
     responseSize="0" serverUid="sampledemo.neotys.com"
-    slaProfileEnabled="false" uid="8ff4c01d-1ec0-4a4a-8d6f-d6f7bd03848a" useKeepAlive="true">
+    slaProfileEnabled="false" uid="1ad2eb6d-c9e0-405f-b43b-c8a7242d8f2b" useKeepAlive="true">
     <responsePageFileDescription>recorded-responses/res_8a3e6ec4-0840-48d1-bc65-c09b6cf8b8e1.png</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_8a3e6ec4-0840-48d1-bc65-c09b6cf8b8e1.txt</requestContentFileDescription>
     <header name="Accept" value="image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5"/>
@@ -422,10 +422,10 @@ Content-Type: image/png</responseHeaders>
     linkExtractorSeveralMatchOccurrence="1"
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/scheduler" path="/scheduler" postType="1"
-    recordedArtifactZipFileName="team/vus/@browser@user_@create_reporta/%resources%/recorded-artifacts/9b48acfe-8a94-4592-9abb-ce02b035d545.zip"
+    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaa/%resources%/recorded-artifacts/052f8ccb-6862-406c-8d22-97708962ac87.zip"
     recordedResponseCode="200" recordedResponseTime="68"
     responseSize="0" serverUid="sampledemo.neotys.com"
-    slaProfileEnabled="false" uid="d9825099-1ea7-481f-805e-c33ffd86cb25" useKeepAlive="true">
+    slaProfileEnabled="false" uid="41adef52-9169-4705-99b0-09d5b42bea03" useKeepAlive="true">
     <responsePageFileDescription>recorded-responses/res_4edc7d69-aca5-45bf-b9b4-2639c2b967d6.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_4edc7d69-aca5-45bf-b9b4-2639c2b967d6.txt</requestContentFileDescription>
     <header name="Accept" value="image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5"/>
@@ -457,10 +457,10 @@ Content-Type: image/gif</responseHeaders>
     linkExtractorSeveralMatchOccurrence="1"
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/json/cluster" path="/json/cluster" postType="1"
-    recordedArtifactZipFileName="team/vus/@browser@user_@create_reporta/%resources%/recorded-artifacts/9b48acfe-8a94-4592-9abb-ce02b035d545.zip"
+    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaa/%resources%/recorded-artifacts/052f8ccb-6862-406c-8d22-97708962ac87.zip"
     recordedResponseCode="200" recordedResponseTime="127"
     responseSize="482" serverUid="sampledemo.neotys.com"
-    slaProfileEnabled="false" uid="b9171e0c-0582-4ab9-8ba3-748b46d9dbcb" useKeepAlive="true">
+    slaProfileEnabled="false" uid="f99e494f-1ccf-4908-9a37-141d79342b55" useKeepAlive="true">
     <responsePageFileDescription>recorded-responses/res_2c109d71-db85-4183-aa3b-4631d317684e</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_2c109d71-db85-4183-aa3b-4631d317684e.txt</requestContentFileDescription>
     <parameter encodeName="true" encodeValue="true" name="s"
@@ -471,7 +471,7 @@ Content-Type: image/gif</responseHeaders>
             extractFromVarNameSimple="" extractType="3"
             extractTypeAdv="3" extractTypeSimple="0" matchNumber="0"
             matchNumberAdv="0" matchNumberSimple="1" name="nl_startdate"
-            refererUid="cbae2bd3-30f7-4265-9cf5-0ab5a8ea31e5"
+            refererUid="d87a3f0f-57f9-42fe-9405-48ac68bc5717"
             regExp="value=&quot;(\d+)&quot;"
             regExpAdv="value=&quot;(\d+)&quot;" setDefaultValue="true"
             startsWithSimple="" template="$1$" templateAdv="$1$"
@@ -488,7 +488,7 @@ Content-Type: image/gif</responseHeaders>
             extractFromVarNameSimple="" extractType="3"
             extractTypeAdv="3" extractTypeSimple="0" matchNumber="0"
             matchNumberAdv="0" matchNumberSimple="1" name="nl_endate"
-            refererUid="cbae2bd3-30f7-4265-9cf5-0ab5a8ea31e5"
+            refererUid="d87a3f0f-57f9-42fe-9405-48ac68bc5717"
             regExp="value=&quot;(\d+)&quot;"
             regExpAdv="value=&quot;(\d+)&quot;" setDefaultValue="true"
             startsWithSimple="" template="$1$" templateAdv="$1$"
