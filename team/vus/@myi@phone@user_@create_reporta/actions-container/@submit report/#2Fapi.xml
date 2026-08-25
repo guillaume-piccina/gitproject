@@ -1,11 +1,11 @@
 <http-page executeResourcesDynamically="false"
     forceEncodingForDynamicResources="false" name="/api"
     playRequestsSequentially="false"
-    recordedArtifactZipFileName="team/vus/@myi@phone@user_@create_report/%resources%/recorded-artifacts/79079e5a-cbbe-460d-af2f-5f67b65357a8.zip"
+    recordedArtifactZipFileName="team/vus/@myi@phone@user_@create_reporta/%resources%/recorded-artifacts/ddaeba48-84b3-46a1-afd8-07098fd401b4.zip"
     slaProfileEnabled="false" thinkTime="39101"
     thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
-    thinkTimeRangeStart="" uid="79079e5a-cbbe-460d-af2f-5f67b65357a8">
-    <embedded-action>e26b1d9d-71c9-4a16-b3fe-312ea9273e64</embedded-action>
+    thinkTimeRangeStart="" uid="ddaeba48-84b3-46a1-afd8-07098fd401b4">
+    <embedded-action>7c965ff0-a88f-4000-8f87-bd18d027d17b</embedded-action>
 </http-page>
 <http-action actionType="1"
     contentType="application/json; charset=utf-8"
@@ -15,11 +15,11 @@
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="POST" name="/api" path="/api" postCharset="UTF-8"
     postType="1"
-    recordedArtifactZipFileName="team/vus/@myi@phone@user_@create_report/%resources%/recorded-artifacts/79079e5a-cbbe-460d-af2f-5f67b65357a8.zip"
+    recordedArtifactZipFileName="team/vus/@myi@phone@user_@create_reporta/%resources%/recorded-artifacts/ddaeba48-84b3-46a1-afd8-07098fd401b4.zip"
     recordedResponseCode="200" recordedResponseTime="97"
     responseSize="110" serverUid="sampledemo.neotys.com"
     slaProfileEnabled="true" slaProfileName="DefaultSLA"
-    uid="e26b1d9d-71c9-4a16-b3fe-312ea9273e64" useKeepAlive="true">
+    uid="7c965ff0-a88f-4000-8f87-bd18d027d17b" useKeepAlive="true">
     <binaryPostContentBase64><![CDATA[aW5jaWRlbnRfYW1wbT1hbSZyZXNwPWpzb24maW5jaWRlbnRfZGVzY3JpcHRpb249SGhoaGgmbG9jYXRpb25fbmFtZT1aLkEuJTIwbGVzJTIwUGFsdWRzJTIwMSUyMGV0JTIwMiwlMjBBdWJhZ25lLCUyMFByb3ZlbmNlLUFscGVzLUMlQzMlQjR0ZSUyMGQnQXp1ciwlMjBGcmFuY2UmaW5jaWRlbnRfdGl0bGU9RmZmZmZmJmxvbmdpdHVkZT01LjU5OTA0Mzg4Mjc1NTMwMSZpbmNpZGVudF9ob3VyPTExJmxhdGl0dWRlPTQzLjI5MDg2NDg0NzQ4MzY2JmluY2lkZW50X2NhdGVnb3J5PTEmaW5jaWRlbnRfZGF0ZT0wMS8yMC8yMDE0JnRhc2s9cmVwb3J0JmluY2lkZW50X21pbnV0ZT00OQ==]]></binaryPostContentBase64>
     <responsePageFileDescription>recorded-responses/res_8b73cbff-c8df-4b12-82a5-f0a306d73526</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_8b73cbff-c8df-4b12-82a5-f0a306d73526.txt</requestContentFileDescription>

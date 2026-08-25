@@ -1,6 +1,6 @@
 <population uid="MyPopulationBigCities">
     <description>User group with 55% of mobile users with a good mobile network quality.</description>
-    <split cache="3" factor="35.0" virtualUserUid="MyiPhoneUser_Create_report">
+    <split cache="3" factor="35.0" virtualUserUid="MyiPhoneUser_Create_reporta">
         <browser-profile acceptEncoding="GZIP,DEFLATE,BROTLI"
             connections="6" cookies="true" http2="false" name="iPhone 5" userAgent="Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/6.0 Mobile/10A405 Safari/8536.25"/>
         <wan-emulation-profile averageDownloadBandwidth="12Mbps"
@@ -14,7 +14,7 @@
             poorUploadPacketLoss="0%" signalStrength="GOOD"
             uploadBandwidth="8Mbps" uploadLatency="20ms" uploadPacketLoss="0%"/>
     </split>
-    <split cache="3" factor="20.0" virtualUserUid="MyiPhoneUser_Create_report">
+    <split cache="3" factor="20.0" virtualUserUid="MyiPhoneUser_Create_reporta">
         <browser-profile acceptEncoding="GZIP,DEFLATE,BROTLI"
             connections="4" cookies="true" http2="false"
             name="iPhone 4S" userAgent="Mozilla/5.0 (iPhone; CPU iPhone OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3"/>
