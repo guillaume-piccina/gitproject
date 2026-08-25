@@ -2,7 +2,7 @@
     name="Home" pacingEnd="0" pacingMode="MODE_NO_PACING"
     pacingStart="0" pacingValue="0" slaProfileEnabled="true"
     slaProfileName="DefaultSLA"
-    uid="58802fea-f7a3-4358-88fc-8a8b6430e2ac" weightsEnabled="false">
-    <weighted-embedded-action uid="9db2684c-8079-4f45-a83b-66aa1b25431c"/>
-    <weighted-embedded-action uid="cfdadc39-4f2d-45dd-b7b0-24aa9083d27d"/>
+    uid="36dbfd42-8b7a-4ca4-9f00-8b4e5514f9e8" weightsEnabled="false">
+    <weighted-embedded-action uid="b33b3a5b-fb16-45d8-8321-c9113ff11399"/>
+    <weighted-embedded-action uid="6218b5b5-d24f-4049-9aa6-35689748945e"/>
 </basic-logical-action-container>
