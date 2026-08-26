@@ -1,8 +1,0 @@
-<basic-logical-action-container element-number="1" execution-type="0"
-    name="submit" pacingEnd="0" pacingMode="MODE_NO_PACING"
-    pacingStart="0" pacingValue="0" slaProfileEnabled="true"
-    slaProfileName="DefaultSLA"
-    uid="1f6f3363-5323-43a2-acb2-2d7fd37e2d4e" weightsEnabled="false">
-    <weighted-embedded-action uid="2b13fd0d-771f-4379-aab6-4106c8d8f0c3"/>
-    <weighted-embedded-action uid="ccff3c86-005f-49a9-9a55-3de9298831d7"/>
-</basic-logical-action-container>
