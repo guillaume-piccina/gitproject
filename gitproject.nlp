@@ -14,3 +14,4 @@ project.config.path=config.zip
 project.config.storage=ZIP
 team.server.enabled=true
 team.server.project=guillaume-piccina/gitproject
+project.description=
