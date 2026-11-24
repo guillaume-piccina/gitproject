@@ -8,8 +8,8 @@
         <lg-address enabled="false" hostname="10.10.69.143">
             <ip value="10.10.69.143"/>
         </lg-address>
-        <lg-address enabled="false" hostname="fe80:0:0:0:cec:9a4b:16d3:85ac%en7">
-            <ip value="fe80:0:0:0:cec:9a4b:16d3:85ac%en7"/>
+        <lg-address enabled="false" hostname="fe80:0:0:0:c16:122d:d004:9201%en7">
+            <ip value="fe80:0:0:0:c16:122d:d004:9201%en7"/>
         </lg-address>
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
