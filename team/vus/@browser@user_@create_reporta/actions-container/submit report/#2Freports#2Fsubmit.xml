@@ -1,15 +1,15 @@
 <http-page executeResourcesDynamically="false"
     forceEncodingForDynamicResources="false" name="/reports/submit"
     playRequestsSequentially="false"
-    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaa/%resources%/recorded-artifacts/f8011aa0-40fe-4f5a-a180-244ad2153a24.zip"
+    recordedArtifactZipFileName="team/vus/@browser@user_@create_reporta/%resources%/recorded-artifacts/064786b2-b4c1-4248-822e-03b00940dc20.zip"
     slaProfileEnabled="false" thinkTime="5928"
     thinkTimeMode="MODE_RANGE_THINK_TIME" thinkTimeRangeEnd="6000"
-    thinkTimeRangeStart="3000" uid="f8011aa0-40fe-4f5a-a180-244ad2153a24">
-    <embedded-action>da83e573-da6b-4f6d-9efd-3f05ae82ac59</embedded-action>
-    <embedded-action>b7596105-8d8c-4770-8c8e-9501bf1366a2</embedded-action>
-    <embedded-action>47a903c8-b87a-463f-a6d6-f00c4db71108</embedded-action>
-    <embedded-action>037ec4b2-bc2d-4272-bf5c-0c4094e0ace3</embedded-action>
-    <embedded-action>6f7bc765-c593-420f-acef-cf3430be5283</embedded-action>
+    thinkTimeRangeStart="3000" uid="064786b2-b4c1-4248-822e-03b00940dc20">
+    <embedded-action>5688fca6-9793-46a7-819c-64e4b3eb96c6</embedded-action>
+    <embedded-action>86fc3d35-4ff3-449f-964d-33f5742973c8</embedded-action>
+    <embedded-action>63898a53-4989-44c5-953f-7ed08cd28a06</embedded-action>
+    <embedded-action>17334a56-6f6d-4b33-ab50-7e9cff633664</embedded-action>
+    <embedded-action>66964a08-dd53-40ce-8025-e219524b8c08</embedded-action>
     <screenshotFileDescription>recorded-screenshots/sc_f0fa9d31-a3a8-457f-8955-75fe9ee53a68.jpg</screenshotFileDescription>
 </http-page>
 <http-action actionType="1" contentType="text/html; charset=UTF-8"
@@ -19,11 +19,11 @@
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/reports/submit" path="/reports/submit"
     postType="1"
-    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaa/%resources%/recorded-artifacts/f8011aa0-40fe-4f5a-a180-244ad2153a24.zip"
+    recordedArtifactZipFileName="team/vus/@browser@user_@create_reporta/%resources%/recorded-artifacts/064786b2-b4c1-4248-822e-03b00940dc20.zip"
     recordedResponseCode="200" recordedResponseTime="135"
-    refererUid="4e4c5e58-e1a4-4b81-9e0d-4b17829ffdc1"
+    refererUid="a75e32b4-4527-4a90-841f-f2b7b0195ddf"
     responseSize="54194" serverUid="sampledemo.neotys.com"
-    slaProfileEnabled="false" uid="da83e573-da6b-4f6d-9efd-3f05ae82ac59" useKeepAlive="true">
+    slaProfileEnabled="false" uid="5688fca6-9793-46a7-819c-64e4b3eb96c6" useKeepAlive="true">
     <responsePageFileDescription>recorded-responses/res_393808d7-0e2c-4c44-bde4-feb9cfe47d18.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_393808d7-0e2c-4c44-bde4-feb9cfe47d18.txt</requestContentFileDescription>
     <variable-extractor assertionOnNoMatch="true"
@@ -73,11 +73,11 @@ Content-Length: 54194</responseHeaders>
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/media/css/colorpicker.css"
     path="/media/css/colorpicker.css" postType="1"
-    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaa/%resources%/recorded-artifacts/f8011aa0-40fe-4f5a-a180-244ad2153a24.zip"
+    recordedArtifactZipFileName="team/vus/@browser@user_@create_reporta/%resources%/recorded-artifacts/064786b2-b4c1-4248-822e-03b00940dc20.zip"
     recordedResponseCode="200" recordedResponseTime="591"
-    refererUid="da83e573-da6b-4f6d-9efd-3f05ae82ac59"
+    refererUid="5688fca6-9793-46a7-819c-64e4b3eb96c6"
     responseSize="3306" serverUid="sampledemo.neotys.com"
-    slaProfileEnabled="false" uid="b7596105-8d8c-4770-8c8e-9501bf1366a2" useKeepAlive="true">
+    slaProfileEnabled="false" uid="86fc3d35-4ff3-449f-964d-33f5742973c8" useKeepAlive="true">
     <responsePageFileDescription>recorded-responses/res_14af2684-1b19-489f-b8c0-eecab54593d9.css</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_14af2684-1b19-489f-b8c0-eecab54593d9.txt</requestContentFileDescription>
     <parameter encodeName="true" encodeValue="true" name="m"
@@ -114,11 +114,11 @@ Content-Type: text/css</responseHeaders>
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/media/css/jquery.treeview.css"
     path="/media/css/jquery.treeview.css" postType="1"
-    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaa/%resources%/recorded-artifacts/f8011aa0-40fe-4f5a-a180-244ad2153a24.zip"
+    recordedArtifactZipFileName="team/vus/@browser@user_@create_reporta/%resources%/recorded-artifacts/064786b2-b4c1-4248-822e-03b00940dc20.zip"
     recordedResponseCode="200" recordedResponseTime="89"
-    refererUid="da83e573-da6b-4f6d-9efd-3f05ae82ac59"
+    refererUid="5688fca6-9793-46a7-819c-64e4b3eb96c6"
     responseSize="2606" serverUid="sampledemo.neotys.com"
-    slaProfileEnabled="false" uid="47a903c8-b87a-463f-a6d6-f00c4db71108" useKeepAlive="true">
+    slaProfileEnabled="false" uid="63898a53-4989-44c5-953f-7ed08cd28a06" useKeepAlive="true">
     <responsePageFileDescription>recorded-responses/res_a4c6d4d0-2b35-420c-a5a6-1f0ae604824f.css</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_a4c6d4d0-2b35-420c-a5a6-1f0ae604824f.txt</requestContentFileDescription>
     <parameter encodeName="true" encodeValue="true" name="m"
@@ -155,11 +155,11 @@ Content-Type: text/css</responseHeaders>
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/media/js/colorpicker.js"
     path="/media/js/colorpicker.js" postType="1"
-    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaa/%resources%/recorded-artifacts/f8011aa0-40fe-4f5a-a180-244ad2153a24.zip"
+    recordedArtifactZipFileName="team/vus/@browser@user_@create_reporta/%resources%/recorded-artifacts/064786b2-b4c1-4248-822e-03b00940dc20.zip"
     recordedResponseCode="200" recordedResponseTime="63"
-    refererUid="da83e573-da6b-4f6d-9efd-3f05ae82ac59"
+    refererUid="5688fca6-9793-46a7-819c-64e4b3eb96c6"
     responseSize="17175" serverUid="sampledemo.neotys.com"
-    slaProfileEnabled="false" uid="037ec4b2-bc2d-4272-bf5c-0c4094e0ace3" useKeepAlive="true">
+    slaProfileEnabled="false" uid="17334a56-6f6d-4b33-ab50-7e9cff633664" useKeepAlive="true">
     <responsePageFileDescription>recorded-responses/res_3c0e5a26-895e-4606-9191-140157da18f6</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_3c0e5a26-895e-4606-9191-140157da18f6.txt</requestContentFileDescription>
     <parameter encodeName="true" encodeValue="true" name="m"
@@ -196,11 +196,11 @@ Content-Type: application/javascript</responseHeaders>
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/media/js/jquery.treeview.js"
     path="/media/js/jquery.treeview.js" postType="1"
-    recordedArtifactZipFileName="team/vus/@browser@user_@create_reportaa/%resources%/recorded-artifacts/f8011aa0-40fe-4f5a-a180-244ad2153a24.zip"
+    recordedArtifactZipFileName="team/vus/@browser@user_@create_reporta/%resources%/recorded-artifacts/064786b2-b4c1-4248-822e-03b00940dc20.zip"
     recordedResponseCode="200" recordedResponseTime="629"
-    refererUid="da83e573-da6b-4f6d-9efd-3f05ae82ac59"
+    refererUid="5688fca6-9793-46a7-819c-64e4b3eb96c6"
     responseSize="7839" serverUid="sampledemo.neotys.com"
-    slaProfileEnabled="false" uid="6f7bc765-c593-420f-acef-cf3430be5283" useKeepAlive="true">
+    slaProfileEnabled="false" uid="66964a08-dd53-40ce-8025-e219524b8c08" useKeepAlive="true">
     <responsePageFileDescription>recorded-responses/res_322f39a8-6dc7-4b40-bc28-ef3e4e1a74ab</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_322f39a8-6dc7-4b40-bc28-ef3e4e1a74ab.txt</requestContentFileDescription>
     <parameter encodeName="true" encodeValue="true" name="m"
